@@ -17,9 +17,9 @@ Includes courses and books
 
 ### Golang
 #### Courses
-| URL | Title                                              |     Status      |
-| :---: |----------------------------------------------------|:---------------:|
-| [Stepik](https://stepik.org/course/54403/info) | Программирование на Golang (Programming on Golang) | **In progress** |
+| URL | Title                                              |    Status     |
+| :---: |----------------------------------------------------|:-------------:|
+| [Stepik](https://stepik.org/course/54403/info) | Программирование на Golang (Programming on Golang) | **Completed** |
 
 #### Books
 |      Author       | Title                       |     Status      |
