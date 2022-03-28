@@ -4,10 +4,10 @@ Includes courses and books
 
 ### Python
 #### Courses
-| URL | Title                                                         |     Status      |
-| :---: |---------------------------------------------------------------|:---------------:|
-| [Stepik](https://stepik.org/course/67) | Программирование на Python (Programming on Python)            |  **Completed**  |
-| [Stepik](https://stepik.org/course/512/syllabus) | Python: основы и применение  (Python: basics and application) | **In progress** |
+| URL | Title                                                         |    Status     |
+| :---: |---------------------------------------------------------------|:-------------:|
+| [Stepik](https://stepik.org/course/67) | Программирование на Python (Programming on Python)            | **Completed** |
+| [Stepik](https://stepik.org/course/512/syllabus) | Python: основы и применение  (Python: basics and application) | **Completed** |
 
 #### Books
 |  Author   | Title                   |     Status      |
