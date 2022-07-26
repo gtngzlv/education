@@ -37,3 +37,8 @@ Includes courses and books
 | :---: |---------------------------------------------------------------------------------------------------|:---------------:|
 | [Stepik](https://stepik.org/course/575/) | Автоматизация тестирования с помощью Selenium и Python (Test automation with Selenium and Python) |  **Completed**  |
 
+### Other stuff
+|                    URL                     | Title                                                                                   |     Status      |
+|:------------------------------------------:|-----------------------------------------------------------------------------------------|:---------------:|
+| [Stepik](https://stepik.org/course/38218/) | Веб-разработка для начинающих: HTML и CSS (Web-development for beginners: HTML and CSS) |  **Completed**  |
+
